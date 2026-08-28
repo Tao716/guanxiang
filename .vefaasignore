@@ -1,0 +1,17 @@
+.git
+.github
+.openai
+.vefaas
+.vinext
+.wrangler
+.data
+.env
+.env.*
+!.env.example
+.vefaas-secrets.env
+内测邀请码.txt
+coverage
+work
+outputs
+*.log
+*.pem
